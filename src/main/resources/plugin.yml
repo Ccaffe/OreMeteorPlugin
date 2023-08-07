@@ -1,0 +1,4 @@
+name: OreMeteorPlugin
+version: '${project.version}'
+main: art.omoti.oremeteorplugin.OreMeteorPlugin
+api-version: '1.20'
